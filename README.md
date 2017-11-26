@@ -8,6 +8,10 @@ The list will display deviations for the current project (current site), and wil
 
 There is also a current minor issue on mobile view where the "add deviation" button is set to display:none.
 
+### Preview
+
+![Demo](https://user-images.githubusercontent.com/20144749/33244403-cb0f2fa2-d2f6-11e7-96a7-c9a19043a845.gif)
+
 ### Building the code
 
 ```bash
