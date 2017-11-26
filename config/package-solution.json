@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "prosjekt-avvik-client-side-solution",
+    "id": "46b1c798-8a02-4964-8d6b-cdb44c46fe02",
+    "version": "1.0.0.8",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/prosjekt-avvik.sppkg"
+  }
+}
